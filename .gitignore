@@ -1,0 +1,17 @@
+# Dataset
+chest_xray/
+data/
+
+# Model files
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Kaggle credentials
+kaggle.json
